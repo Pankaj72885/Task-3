@@ -1,0 +1,48 @@
+.header {
+  height: 100px;
+  text-align: center;
+  border: 5px solid royalblue;
+  margin: 20px 600px;
+  background-color: antiquewhite;
+  padding: 5px;
+  line-height: 30px;
+  font-size: 30px;
+}
+.section {
+  height: 800px;
+  border: 2px solid gray;
+  margin: 10px;
+  padding: 10px;
+}
+.blog {
+  border: 2px solid gray;
+  margin: 5px;
+  padding: 10px;
+  background-color: antiquewhite;
+}
+.blogHead {
+  font-size: 35px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: blueviolet;
+}
+.blogPara {
+  font-size: 25px;
+  font-weight: 400;
+  color: blue;
+  text-align: justify;
+}
+button {
+  color: black;
+  font-size: larger;
+  font-weight: 900;
+  padding: 10px;
+  border-radius: 20px;
+  display: inline;
+}
+.footer {
+  height: 100px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
